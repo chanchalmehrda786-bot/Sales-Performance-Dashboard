@@ -1,2 +1,3 @@
-# Sales-Performance-Dashboard
-A Sales Performance Dashboard is an interactive report that analyzes sales data to track revenue, profit, and product performance. It helps businesses monitor key KPIs, identify trends, and make data-driven decisions efficiently.
+This project analyzes sales data to track key metrics like Total Sales, Profit, Quantity, and Regional Performance using interactive visuals.
+
+Built using Power BI, the dashboard helps in identifying trends, top-performing products, and business growth opportunities through data-driven insights.
